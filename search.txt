@@ -1,0 +1,7 @@
+root
+adm
+nobody
+ssh
+myuser
+ftp
+u1

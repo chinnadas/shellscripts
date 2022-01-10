@@ -1,0 +1,43 @@
+
+Checking Network connectivity for 192.168.10.92
+192.168.10.92 is pinging, continuing to next step
+[4;31mResource details of 192.168.10.92 server[0m
+[4m MEMORY DETAILS[0m
+TOTAL MEM = 1838
+USED  MEM = 483
+FREE MEM = 888
+[4m CPU LOAD[0m
+  load average: 0.30
+[4m ROOT FS DETAILS[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda2        15G  7.9G  7.2G  53% /
+
+Checking Network connectivity for 192.168.10.71
+192.168.10.71 is pinging, continuing to next step
+[4;31mResource details of 192.168.10.71 server[0m
+[4m MEMORY DETAILS[0m
+TOTAL MEM = 991
+USED  MEM = 446
+FREE MEM = 103
+[4m CPU LOAD[0m
+  load average: 0.21
+[4m ROOT FS DETAILS[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda2        15G   13G  2.2G  86% /
+
+Checking Network connectivity for 192.168.10.101
+192.168.10.101 is not pinging,Skipping to next server
+
+Checking Network connectivity for 192.168.10.72
+192.168.10.72 is pinging, continuing to next step
+[4;31mResource details of 192.168.10.72 server[0m
+[4m MEMORY DETAILS[0m
+TOTAL MEM = 991
+USED  MEM = 413
+FREE MEM = 209
+[4m CPU LOAD[0m
+  load average: 0.53
+[4m ROOT FS DETAILS[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda2        15G  8.1G  6.6G  56% /
+Script completed
